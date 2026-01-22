@@ -1,0 +1,7 @@
+langchain==0.1.13
+langchain-openai
+langchain-community
+openai
+python-dotenv
+streamlit
+chromadb
