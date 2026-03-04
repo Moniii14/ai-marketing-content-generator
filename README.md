@@ -13,4 +13,11 @@ JSONL-based persistent memory; interactive Streamlit user interface with export 
 
 [Execution Flow] (execution_flow.jpeg)
 
-🔹 Tech Stack: Python, LangChain, Streamlit, OpenAI (optional), JSON/CSV, and dotenv
+
+🔹 Tech Stack: 
+- Python
+- LangChain
+- Streamlit
+- LLM agent orchestration
+- JSON workflow pipelines
+- -dotenv
